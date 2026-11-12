@@ -8,7 +8,7 @@
 
 #include <Streaming.h>
 
-uint16_t resolution = 10; // max: 512
+uint16_t resolution = 10; // max: 512-1
 uint16_t duration = 1000;  // ms
 float angle_start = 0;
 float angle_end = 45;
